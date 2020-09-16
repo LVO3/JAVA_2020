@@ -1,6 +1,8 @@
+package RockPaperScissors;
+
 import java.util.Scanner;
 
-public class Test {
+public class RockPaperScissors2 {
     public static void main(String[] args) {
         //Math.random을 사용한 가위바위보 프로그램 작성
         //가위:1, 바위:2, 보:3로 값을 지정한 후 플레이어의 입력과 컴퓨터의 랜덤 값의 차(알고리즘)를 구하여 switch case문을

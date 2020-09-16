@@ -1,5 +1,7 @@
+package RockPaperScissors;
+
 import java.util.Scanner;
-public class legendary {
+public class RockPaperScissors1 {
     public static void main(String[] args) {
         System.out.println("가위 바위 보 게임");
         System.out.println("가위:1, 바위:2, 보:3");
