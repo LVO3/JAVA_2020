@@ -1,4 +1,4 @@
-package UpDownGame;
+package upDownGame;
 import java.util.Scanner;
 public class UpDownGame {
     public static void main(String[] args) {
